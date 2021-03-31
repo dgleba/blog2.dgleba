@@ -2,6 +2,9 @@
 
 [Page 2](page2.md)
 
+```
+cd
+```
 
 You can use the [editor on GitHub](https://github.com/dgleba/blog2.dgleba/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
